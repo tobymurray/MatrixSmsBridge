@@ -1,0 +1,2 @@
+rootProject.name = "Matrix SMS Bridge"
+include ':app'
